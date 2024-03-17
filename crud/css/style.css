@@ -1,0 +1,45 @@
+
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.bg-color1{
+   background-color: #00faff70;
+}
+
+.border1{
+    border: 2px solid green;
+}
+
+
+.count{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.count-box{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1{
+    background-color: blue;
+}
+.btn1:hover{
+    background-color: green;
+    color : white;
+}
+
+
+
